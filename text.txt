@@ -1,3 +1,7 @@
 This is text file
 this is text 2
+<<<<<<< HEAD
 changes mage to trigger the jenkins job
+=======
+this is change for commit
+>>>>>>> 00f7f6b0a45a8177e5ae9fef6d27606af8915c17
